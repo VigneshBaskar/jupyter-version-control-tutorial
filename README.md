@@ -3,6 +3,9 @@
 # Please make sure you do the steps to before starting to version control
 Download jupyter_version_control githiub folder from https://github.com/balabit/ipython3-versioncontrol
 
+## To find the jupyter config file
+http://jupyter-notebook.readthedocs.io/en/stable/config.html
+
 In jupyter_notebook_config replace '/home/vicky/jupyter_version_control/notebook_v4_to_py.py' 
 with the correct location of the file that you downloaded from github.
 
